@@ -1,0 +1,3 @@
+*.gz
+build/
+release/
